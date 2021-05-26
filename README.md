@@ -1,7 +1,7 @@
 # Srikanth_Portfolio
 Data Science Projects
 
-# Project 1: Predicting a Bank Customer Exit Rate using ANN:
+# [Project 1: Predicting a Bank Customer Exit Rate using ANN:](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
 * The dataset used for modelling our prediction model can be found [here](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/tree/main/Dataset)
 
