@@ -21,8 +21,8 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 * Using Logistic Regression algorithm to train a model and to predict heart disease
 * Analysing the Models performance
 
-## Analysing the Binary Variable with respect to our target variable
-![Binary Variable](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Figure_2.png)
-
 ## Analysing the Categorical Variable with respect to our target variable
-![Categorical_variable](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Figure_3.png)
+![Categorical Variable](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Figure_2.png)
+
+## Analysing the Continuous Variable with respect to our target variable
+![Continuous_variable](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Figure_3.png)
