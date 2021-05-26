@@ -9,6 +9,6 @@ Data Science Projects
 
 * Modelling an ANN by Selecting appropriate model parameters
 
-* Using the ANN model to Predict
+* Using the ANN model to Predict the Banks Overall Churn rate as well as an individual customers probability of exiting 
 
-* Evaluating using Accuracy score and Confusion Matrix
+* Evaluating the model performance using Accuracy score and Confusion Matrix
