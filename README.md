@@ -12,3 +12,5 @@
 * Using the ANN model to Predict the Banks Overall Churn rate as well as an individual customers probability of exiting 
 
 * Evaluating the model performance using Accuracy score and Confusion Matrix
+
+![Correlation_analysis](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Correlation_analysis.png)
