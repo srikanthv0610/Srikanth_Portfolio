@@ -1,5 +1,6 @@
 # Srikanth_Portfolio
 
+My Data Science Portfolio including Projects that I completed, which are solving a particular business problem or introducing a new product/algorithm. All projects codes and write up. Additionally, you can also find my Master Thesis Project with the complete report here
 
 # [Project 1: Predicting a Bank Customer Exit Rate using ANN:](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
