@@ -11,7 +11,9 @@ My Data Science Portfolio including Projects that I completed, which are solving
 
 # [Project 2: Heart Disease Prediction using Logistic Regression](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
-Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Dataset), I have designed this model for:
+**Why:**  Heart disease can be predicted based on various symptoms such as age, gender, heart rate, etc. Machine learning algorithms play an essential and precise role in the prediction of heart disease. This would help to reduce the death rate of heart patients. 
+
+**Steps:**
 * Analysing the different variables and finding relations and insights using descriptive statistical analysis technique
 * Data Preprocessing
 * Splitting the data into train and test sets
@@ -23,7 +25,7 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 
 # [Project 3: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
 
-Design and compare performance of different classification models. The models gives us an estimation on which customer would buy a product based on different parameters. 
+**Why:** Design and compare performance of different classification models. The models gives us an estimation on which customer would buy a product based on different parameters. 
 
 ## Classification Models Used:
 
