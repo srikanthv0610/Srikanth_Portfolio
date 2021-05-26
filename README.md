@@ -40,6 +40,6 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 * Decision Tree
 * Random Forest
 
-
+## Visualizing the Classification of the different models:
 ![LR](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/LR_Test_set_classification.png)
 ![KNN](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/KNN_Test_set_classification.PNG)
