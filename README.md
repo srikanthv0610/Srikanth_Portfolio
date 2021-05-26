@@ -27,7 +27,7 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 ## Analysing the Continuous Variable with respect to our target variable
 ![Continuous_variable](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Figure_3.png)
 
-# [Project 3: # Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers:](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
+# [Project 3: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers:](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
 
 * Design and compare performance of different classification models. We design the model to predict which customer would buy a product based on different parameters. 
 
