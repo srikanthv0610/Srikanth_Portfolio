@@ -1,15 +1,11 @@
 # Srikanth_Portfolio
 
-My Data Science Portfolio including Projects that I completed, which are solving a particular business problem or introducing a new product/algorithm. All projects contain python codes and you can get an overview through the write up. Additionally, you can also find my Master Thesis Project with the complete report here
-
+My Data Science Portfolio including Projects that I completed, which are solving a particular business problem or introducing a new product/algorithm. All projects contain python codes and you can get an overview through the write up. 
 # [Project 1: Predicting a Bank Customer Exit Rate using ANN:](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
-* The dataset used for modelling our prediction model can be found [here](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/tree/main/Dataset)
+*Why* To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.
 
-* Applying Data Preprocessing: Data Transformation, Data Normalization and Splitting into Train and Test Set
-* Modelling an ANN by Selecting appropriate model parameters
-* Using the ANN model to Predict the Banks Overall Churn rate as well as an individual customers probability of exiting 
-* Evaluating the model performance using Accuracy score and Confusion Matrix
+*How* Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
 
 ![Correlation_analysis](/Images/Correlation_analysis.png)
 
