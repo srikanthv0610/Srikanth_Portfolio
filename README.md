@@ -21,4 +21,4 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 * Using Logistic Regression algorithm to train a model and to predict heart disease
 * Analysing the Models performance
 
-![Data_Preprocession](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/CV_new-01.png)
+![Data_Preprocession]()
