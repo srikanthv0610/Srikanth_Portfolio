@@ -10,7 +10,7 @@
 * Using the ANN model to Predict the Banks Overall Churn rate as well as an individual customers probability of exiting 
 * Evaluating the model performance using Accuracy score and Confusion Matrix
 
-![Correlation_analysis](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Correlation_analysis.png)
+![Correlation_analysis](/Images/Correlation_analysis.png)
 
 # [Project 2: Heart Disease Prediction using Logistic Regression:](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
@@ -22,10 +22,10 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 * Analysing the Models performance
 
 ## Analysing the Categorical Variable with respect to our target variable
-![Categorical Variable](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Figure_2.png)
+![Categorical Variable](/Images/Figure_2.png)
 
 ## Analysing the Continuous Variable with respect to our target variable
-![Continuous_variable](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/Figure_3.png)
+![Continuous_variable](/Images/Figure_3.png)
 
 # [Project 3: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers:](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
 
@@ -41,5 +41,5 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 * Random Forest
 
 ## Visualizing the Classification of the different models:
-![LR](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/LR_Test_set_classification.png)
-![KNN](https://github.com/srikanthv0610/Srikanth_Portfolio/blob/main/Images/KNN_Test_set_classification.PNG)
+![LR](/Images/LR_Test_set_classification.png)
+![KNN](/Images/KNN_Test_set_classification.PNG)
