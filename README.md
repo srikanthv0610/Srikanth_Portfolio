@@ -4,9 +4,7 @@ My Data Science Portfolio including Projects that I completed, which are solving
 # [Project 1: Predicting a Bank Customer Exit Rate using ANN](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
 **Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.
-
 **How:** Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
-
 ![Correlation_analysis](/Images/Correlation_analysis.png)
 
 # [Project 2: Heart Disease Prediction using Logistic Regression](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
