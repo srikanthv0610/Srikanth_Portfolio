@@ -7,7 +7,7 @@ Data Science Projects
 
 * Applying Data Preprocessing: Data Transformation, Data Normalization and Splitting into Train and Test Set
 
-* Artificial Neural Network Modelling, Selecting the model parameters
+* Modelling an ANN by Selecting appropriate model parameters
 
 * Using the ANN model to Predict
 
