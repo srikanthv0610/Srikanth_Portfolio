@@ -48,8 +48,9 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 
 **Steps:**
 
-* Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/Dataset) compiled by Dean De Cock.
-* Apply Feature Transformation, Feature Selection and K-fold Cross Validation.
-* Linear Regression to Predict the House Prices.
+* Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/Dataset) compiled by Dean De Cock
+* Applyed Feature Transformation and Feature Selection
+* Used K-fold Cross Validation to eliminate overfitting
+* Linear Regression to Predict the House Prices
 
 ![Correlation_analysis](/Images/Heatmap_Collinearity2.png)
