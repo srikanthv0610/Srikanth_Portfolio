@@ -7,7 +7,7 @@ My Data Science Portfolio including Projects that I completed, which are solving
 
 **How:** Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
 
-![Correlation_analysis](/Images/.png)
+![Correlation_analysis](/Images/Figure_6.png)
 
 # [Project 2: Heart Disease Prediction using Logistic Regression](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
@@ -51,4 +51,4 @@ My Data Science Portfolio including Projects that I completed, which are solving
 * Apply Feature Transformation, Feature Selection and K-fold Cross Validation.
 * Linear Regression to Predict the House Prices.
 
-![Correlation_analysis](/Images/Correlation_analysis.png)
+![Correlation_analysis](/Images/Heatmap_Collinearity2.png)
