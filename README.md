@@ -1,6 +1,6 @@
 # Srikanth_Portfolio
 
-My Data Science Portfolio including Projects that I completed, which are solving a particular business problem or introducing a new product/algorithm. All projects contain python codes and you can get an overview through the write up. 
+My Data Science Portfolio contains Projects that I completed, which are solving a particular business problem or introducing a new product/algorithm. All projects contain python codes and you can get an overview through the write up. 
 # [Project 1: Predicting a Bank Customer Exit Rate using ANN](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
 **Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.
