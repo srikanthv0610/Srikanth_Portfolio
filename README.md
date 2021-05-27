@@ -7,7 +7,7 @@ My Data Science Portfolio including Projects that I completed, which are solving
 
 **How:** Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
 
-![Correlation_analysis](/Images/Correlation_analysis.png)
+![Correlation_analysis](/Images/.png)
 
 # [Project 2: Heart Disease Prediction using Logistic Regression](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
@@ -39,3 +39,16 @@ My Data Science Portfolio including Projects that I completed, which are solving
 ## Visualizing the Classification of the different models:
 ![LR](/Images/LR_Test_set_classification.png)
 ![KNN](/Images/KNN_Test_set_classification.PNG)
+
+
+# [Project 4: House Price Prediction with Linear Regression](https://github.com/srikanthv0610/House_Price_Prediction)
+
+**Why:** To estimate the house prices for helping people who plan to buy a house so they can know the price range in the future and plan their finance well. In addition, house price predictions are also beneficial for property investors to know the trend of housing prices in a certain location.
+
+**Steps:**
+
+* Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/Dataset) compiled by Dean De Cock.
+* Apply Feature Transformation, Feature Selection and K-fold Cross Validation.
+* Linear Regression to Predict the House Prices.
+
+![Correlation_analysis](/Images/Correlation_analysis.png)
