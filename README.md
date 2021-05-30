@@ -13,7 +13,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 * Used K-fold Cross Validation to eliminate overfitting
 * Linear Regression to Predict the House Prices
 
-![Correlation_analysis](/Images/Heatmap_Collinearity2.png)
+![House_Price](/Images/House%20Price%20Predition.png)
 
 # [Project 2: Heart Disease Prediction using Logistic Regression](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
