@@ -79,4 +79,6 @@ The project aimes to group the different types of customers in a mall using the 
 * K-mean Clustering: modelling using sciket-learn and algorithm-based modelling
 * Cluster-wise Analysis and Observations
 
+![K-mean](/Images/K-mean_cluster.png)
+
 
