@@ -16,7 +16,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 
 **Steps:**
 * Analysing the different variables and finding relations and insights using descriptive statistical analysis technique
-* Data Preprocessing
+* A Stepwise Data Preprocessing 
 * Splitting the data into train and test sets
 * Using Logistic Regression algorithm to train a model and to predict heart disease
 * Analysing the Models performance
@@ -65,4 +65,18 @@ estimate the stock prices, it is possible to make accurate predictions by using 
 For this project, we use the past 5 years [Google stock price data](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/tree/main/Dataset) in the time period of 2016-2020. The goal is to predict the upward or downward trend in the stock price of Google for January 2021.
 
 ![Image1](/Images/GoogleStockPriceDevelopment.png)
+
+# [Project 6: # Clustering the Customers in Mall using Kmean Clustering Algorithm:](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall)
+
+The project aimes to group the different types of customers in a mall using the K-Means clustering technique.  
+
+**Why:** This project shows how to use Machine Learning in business. By clustering your [customer data](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/tree/main/dataset) you can group them by age, salary, gender, spendings or any other feature that you have in your customer dataset. The algorithm will assure to find the best strategy for a market using the customer trends.
+
+**Steps:** 
+* Feature Transformation
+* Analysing the different Parameters
+* Principal Component Analysis (PCA) for reducing the parameters and finding Eigenvalues and Loading Scores
+* K-mean Clustering: modelling using sciket-learn and algorithm-based modelling
+* Cluster-wise Analysis and Observations
+
 
