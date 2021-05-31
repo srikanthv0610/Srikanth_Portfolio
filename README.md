@@ -29,7 +29,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 ![Heart_Disease](/Images/Heart%20Disease%20Predition.png)
 
 
-# [Project 3: Clustering the Customers in Mall using Kmean Clustering Algorithm:](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall)
+# [Project 3: Mall Customer Segmentation using K-mean Clustering Algorithm:](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall)
 
 The project aimes to group the different types of customers in a mall using the K-Means clustering technique.  
 
