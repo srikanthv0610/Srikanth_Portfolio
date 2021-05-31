@@ -55,7 +55,7 @@ The project aimes to group the different types of customers in a mall using the 
 
 # [Project 5: Google Stock Price Prediction using Recurssive Neural Network (RNN):](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-)
 
-**Why** In Quantitative finance, predicting the stock price with high accuracy is a very important and difficult task. Although, it is imposiible to exactly 
+**Why:** In Quantitative finance, predicting the stock price with high accuracy is a very important and difficult task. Although, it is imposiible to exactly 
 estimate the stock prices, it is possible to make accurate predictions by using the past stock prices (Theory behind Brownian Motions). 
 
 **How:** We analyse the upward and downward treds in the past and use this as an indicator to predict the future prices. Long Short-Term Memory (LSTM) is a more sophisticated version of RNN which addresses the *Vanishing Gradient Problem* that RNNs often suffer from.
