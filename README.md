@@ -51,7 +51,7 @@ The project aimes to group the different types of customers in a mall using the 
 
 **How:** Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
 
-![Correlation_analysis](/Images/Figure_6.png)
+![Bank_Churn](/Images/Bank_churn.png)
 
 # [Project 5: Google Stock Price Prediction using Recurssive Neural Network (RNN):](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-)
 
