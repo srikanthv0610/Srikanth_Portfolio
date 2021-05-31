@@ -26,8 +26,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 * Using Logistic Regression algorithm to train a model and to predict heart disease
 * Analysing the Models performance
 
-## Analysing the Continuous Variable with respect to our target variable
-![Continuous_variable](/Images/Figure_3.png)
+![Heart_Disease](/Images/Heart%20Disease%20Predition.png)
 
 
 # [Project 3: Clustering the Customers in Mall using Kmean Clustering Algorithm:](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall)
