@@ -42,7 +42,7 @@ The project aimes to group the different types of customers in a mall using the 
 * K-mean Clustering: modelling using sciket-learn and algorithm-based modelling
 * Cluster-wise Analysis and Observations
 
-![K-mean](/Images/K-mean_cluster.png)
+![K-mean](/Images/Clustering.png)
 
 # [Project 4: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
 
