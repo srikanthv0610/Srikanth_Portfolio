@@ -26,7 +26,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 * Using Logistic Regression algorithm to predict heart disease
 * Analysing the Models performance
 
-![Heart_Disease](/Images/Heart_DiseasePredition.png)
+![Heart_Disease](/Images/Heart_Disease_Predition.png)
 
 
 # [Project 3: Mall Customer Segmentation using K-mean Clustering Algorithm:](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall)
