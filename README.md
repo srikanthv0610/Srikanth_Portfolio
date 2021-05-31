@@ -15,7 +15,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 
 ![House_Price](/Images/House%20Price%20Predition.png)
 
-# [Project 2: Heart Disease Prediction using Logistic Regression](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
+# [Project 2: Heart Disease Prediction using Classification](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
 **Why:**  Heart disease can be predicted based on various symptoms such as age, gender, heart rate, etc. Machine learning algorithms play an essential and precise role in the prediction of heart disease. This would help to reduce the death rate of heart patients. 
 
@@ -23,7 +23,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 * Analysing the different variables and finding relations and insights using descriptive statistical analysis technique
 * A Stepwise Data Preprocessing 
 * Splitting the data into train and test sets
-* Using Logistic Regression algorithm to train a model and to predict heart disease
+* Using Logistic Regression algorithm to predict heart disease
 * Analysing the Models performance
 
 ![Heart_Disease](/Images/Heart%20Disease%20Predition.png)
@@ -44,24 +44,8 @@ The project aimes to group the different types of customers in a mall using the 
 
 ![K-mean](/Images/Clustering.png)
 
-# [Project 4: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
 
-**Why:** Design and compare performance of different classification models. The models gives us an estimation on which customer would buy a product based on different parameters. 
-
-## Classification Models Used:
-
-* Logistic Regression
-* Support Vector Machine
-* Naive Bayes
-* K-Nearest Neighbour
-* Decision Tree
-* Random Forest
-
-## Visualizing the Classification of the different models:
-![LR](/Images/LR_Test_set_classification.png)
-![KNN](/Images/KNN_Test_set_classification.PNG)
-
-# [Project 5: Predicting a Bank Customer Exit Rate using Artificial Neural Network (ANN)](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
+# [Project 4: Predicting a Bank Customer Exit Rate using Artificial Neural Network (ANN)](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
 **Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.
 
@@ -69,7 +53,7 @@ The project aimes to group the different types of customers in a mall using the 
 
 ![Correlation_analysis](/Images/Figure_6.png)
 
-# [Project 6: Google Stock Price Prediction using Recurssive Neural Network (RNN):](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-)
+# [Project 5: Google Stock Price Prediction using Recurssive Neural Network (RNN):](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-)
 
 **Why** In Quantitative finance, predicting the stock price with high accuracy is a very important and difficult task. Although, it is imposiible to exactly 
 estimate the stock prices, it is possible to make accurate predictions by using the past stock prices (Theory behind Brownian Motions). 
