@@ -45,7 +45,7 @@ The project aimes to group the different types of customers in a mall using the 
 ![K-mean](/Images/Clustering.png)
 
 
-# [Project 4: Predicting a Bank Customer Exit Rate using Artificial Neural Network (ANN)](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
+# [Project 4: Bank Customer Exit Rate Prediction and Analysis using Artificial Neural Network (ANN)](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
 **Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.
 
