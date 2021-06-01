@@ -30,6 +30,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 
 ![Heart_Disease](/Images/Heart_Disease_Predition.png)
 
+***
 
 # [Project 3: Mall Customer Segmentation using K-mean Clustering Algorithm:](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall)
 
@@ -46,6 +47,7 @@ The project aimes to group the different types of customers in a mall using the 
 
 ![K-mean](/Images/Clustering.png)
 
+***
 
 # [Project 4: Bank Customer Exit Rate Prediction and Analysis using Artificial Neural Network (ANN)](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
@@ -54,6 +56,8 @@ The project aimes to group the different types of customers in a mall using the 
 **How:** Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
 
 ![Bank_Churn](/Images/Bank_churn.png)
+
+***
 
 # [Project 5: Google Stock Price Prediction using Recurssive Neural Network (RNN):](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-)
 
