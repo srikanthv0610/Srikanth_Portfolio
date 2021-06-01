@@ -15,6 +15,8 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 
 ![House_Price](/Images/House_Price_Predition.png)
 
+***
+
 # [Project 2: Heart Disease Prediction using Classification](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
 **Why:**  Heart disease can be predicted based on various symptoms such as age, gender, heart rate, etc. Machine learning algorithms play an essential and precise role in the prediction of heart disease. This would help to reduce the death rate of heart patients. 
