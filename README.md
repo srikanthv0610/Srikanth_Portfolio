@@ -68,7 +68,7 @@ estimate the stock prices, it is possible to make accurate predictions by using 
 
 For this project, we use the past 5 years [Google stock price data](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/tree/main/Dataset) in the time period of 2016-2020. The goal is to predict the upward or downward trend in the stock price of Google for January 2021.
 
-<img src="/Images/Google.png" width="450" height="600">
+<img src="/Images/Google.png" width="300" height="500">
 
 ***
 
