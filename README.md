@@ -2,7 +2,7 @@
 
 My Data Science Portfolio contains **Projects** that I completed, which are solving a particular business problem or introducing a new product/algorithm.
 
-# [Project 1: House Price Prediction with Linear Regression](https://github.com/srikanthv0610/House_Price_Prediction)
+# [Project 1: House Price Prediction with Linear Regression:](https://github.com/srikanthv0610/House_Price_Prediction)
 
 **Why:** To estimate the house prices for helping people who plan to buy a house so they can know the price range in the future and plan their finance well. In addition, house price predictions are also beneficial for property investors to know the trend of housing prices in a certain location.
 
@@ -17,7 +17,7 @@ My Data Science Portfolio contains **Projects** that I completed, which are solv
 
 ***
 
-# [Project 2: Heart Disease Prediction using Classification](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
+# [Project 2: Heart Disease Prediction using Classification:](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction) 
 
 **Why:**  Heart disease can be predicted based on various symptoms such as age, gender, heart rate, etc. Machine learning algorithms play an essential and precise role in the prediction of heart disease. This would help to reduce the death rate of heart patients. 
 
@@ -49,7 +49,7 @@ The project aimes to group the different types of customers in a mall using the 
 
 ***
 
-# [Project 4: Bank Customer Exit Rate Prediction and Analysis using Artificial Neural Network (ANN)](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
+# [Project 4: Bank Customer Exit Rate Prediction and Analysis using Artificial Neural Network (ANN):](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate)
 
 **Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.
 
@@ -74,10 +74,10 @@ For this project, we use the past 5 years [Google stock price data](https://gith
 
 # Other Projects:
 
-* [Project 6: Movie Recommendation System using: a) Content-Based Filterning, b) Collaborative Filtering](https://github.com/srikanthv0610/Movie-Recommendation-System)
+* [Project 6: Movie Recommendation System using: a) Content-Based Filterning, b) Collaborative Filtering:](https://github.com/srikanthv0610/Movie-Recommendation-System)
  
-* [Project 7: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
+* [Project 7: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers:](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
 
-* [Project 8: Mobile App or Website?: Using Regression to predict whether an e-commerce company should go for website sales or a mobile app](https://github.com/srikanthv0610/Linear-Regression-Prediction-Mobile-App-or-Website-Sales-)
+* [Project 8: Mobile App or Website?: Using Regression to predict whether an e-commerce company should go for website sales or a mobile app:](https://github.com/srikanthv0610/Linear-Regression-Prediction-Mobile-App-or-Website-Sales-)
 
 
