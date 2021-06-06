@@ -70,4 +70,9 @@ For this project, we use the past 5 years [Google stock price data](https://gith
 
 ![Image1](/Images/Google.png)
 
+***
+
+# Other Projects:
+
+### [Project 6: Movie Recommendation System using: a) Content-Based Filterning, b) Collaborative Filtering](https://github.com/srikanthv0610/Movie-Recommendation-System)
 
