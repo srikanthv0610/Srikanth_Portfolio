@@ -55,7 +55,8 @@ The project aimes to group the different types of customers in a mall using the 
 
 **How:** Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
 
-![Bank_Churn](/Images/Bank_churn.png)
+<img src="/Images/Bank_churn.png" width="400" height="400">
+
 
 ***
 
