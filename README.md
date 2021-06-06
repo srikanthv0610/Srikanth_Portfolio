@@ -76,3 +76,6 @@ For this project, we use the past 5 years [Google stock price data](https://gith
 
 ### [Project 6: Movie Recommendation System using: a) Content-Based Filterning, b) Collaborative Filtering](https://github.com/srikanthv0610/Movie-Recommendation-System)
 
+### [Project 7: Social Media-Marketing Prediction: Analysing and Visualizing the Performance of Different Classifiers](https://github.com/srikanthv0610/ClassificationModel_Compairing-ModelPerformance-of-Different-Classifiers)
+
+
