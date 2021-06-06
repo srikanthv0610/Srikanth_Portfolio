@@ -55,8 +55,7 @@ The project aimes to group the different types of customers in a mall using the 
 
 **How:** Using customer behavour data to analyse the different parameters and train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.
 
-<img src="/Images/Bank_churn.png" width="600" height="400">
-
+![Bank](/Images/Bank_churn.png)
 
 ***
 
@@ -69,7 +68,7 @@ estimate the stock prices, it is possible to make accurate predictions by using 
 
 For this project, we use the past 5 years [Google stock price data](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/tree/main/Dataset) in the time period of 2016-2020. The goal is to predict the upward or downward trend in the stock price of Google for January 2021.
 
-![Image1](/Images/Google.png)
+<img src="/Images/Google.png" width="450" height="600">
 
 ***
 
